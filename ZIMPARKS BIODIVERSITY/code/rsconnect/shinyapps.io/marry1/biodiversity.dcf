@@ -1,0 +1,13 @@
+name: biodiversity
+title: biodiversity
+username:
+account: trevor-kauyu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4112484
+bundleId: 4584306
+url: https://treykayz.shinyapps.io/biodiversity/
+when: 1620711359.03053
+lastSyncTime: 1620711359.03053
+asMultiple: FALSE
+asStatic: FALSE
