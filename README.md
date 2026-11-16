@@ -1,12 +1,9 @@
-# ZimParksBiodiversityDashboard
+# ZimParks Biodiversity Dashboard
 
-<h2>👨‍💻 Zimbabwe National Parks Biodiversity Dashboard</h2>
+> **This project has moved.** It now lives in a single, documented portfolio repository, with an updated write-up, results and limitations:
+>
+> **https://github.com/Travoltah/data-science-projects/tree/main/projects/05-zimparks-biodiversity-dashboard**
 
-- <b>R-Shiny Dashboard</b>
-  - [Zim National Parks Biodiversity Dashboard](https://trevork.shinyapps.io/HealthFacilityLocator/)
+This repository is archived and kept read-only so existing links keep working.
 
-<i> Biodiversity in Zimbabwe National Parks</i> is an app that let you visualize the distribution of species in the different national parks across Zimbabwe.
-From the left navigation panel you'll be able to access the maps, data and charts concerning the Zimbabwe National Parks and their resident species.
-
-It has been made with r-shiny 
-
+Portfolio: [trevor-kauyu.vercel.app](https://trevor-kauyu.vercel.app)
